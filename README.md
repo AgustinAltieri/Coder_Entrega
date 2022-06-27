@@ -1,3 +1,8 @@
+Se realizaron 3 PUSH:
+
+Se crearon 3 brenches diferentes, la entrega final la pagina/Blog completo se encinetra en  breanch mainFinal  ###!!!importante!!!!!
+
+
 Paso N°1:
 
 Antes de Inciar el Servidor, tener los siguentes pip instalados:
