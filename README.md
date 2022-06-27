@@ -1,11 +1,15 @@
+Para descargar el archivo del proyecto, situarse el la breanch mainFinal, y desde ahi descargar el zip.
+
+
 Se realizaron 3 PUSH:
 
-Se crearon 3 brenches diferentes, la entrega final la pagina/Blog completo se encinetra en  breanch mainFinal  ###!!!importante!!!!!
+Se crearon 3 brenches diferentes, la entrega final la pagina/Blog completo se encuentra en  breanch mainFinal  ###!!!importante!!!!!
 
+una vez los archivos en visual studio code:
 
 Paso N°1:
 
-Antes de Inciar el Servidor, tener los siguentes pip instalados:
+Tener los siguentes pip instalados:
 
   Django 2.2.7 : pip install Django==2.2.7
   django-crispy-forms : pip install django-crispy-forms
